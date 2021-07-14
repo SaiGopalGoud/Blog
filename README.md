@@ -1,4 +1,5 @@
-# Blog website.
+# Blog website. 
+#EJS
 Add dependencies
 1. npm i body-parser
 2. npm install ejs
@@ -8,3 +9,10 @@ We create our app using express. We set the view engine using ejs and then we us
 
 
 Open http://localhost:3000 to view it in the browser.
+
+
+Learn More
+You can learn more in the EJS documentation.
+
+To learn ejs, check out the ejs documentation. https://ejs.co/#docs
+
